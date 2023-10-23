@@ -1,0 +1,39 @@
+All questionaire items are graded on a Likert scale of 1-5 (1=strongly disagree, 5=strongly agree)
+
+Questionaire Items:
+Please answer these questions about your romantic partner:
+1. It helps to turn to this person in times of need.
+2. I usually discuss my problems and concerns with this person.
+3. I talk things over with this person.
+4. I find it easy to depend on this person.
+5. I don't feel comfortable opening up to this person.
+6. I prefer not to show this person how I feel deep down.
+7. I often worry that this person doesn't really care for me.
+8. I'm afraid that this person may abandon me.
+9. I worry that this person won't care about me as much as I care about him or her. 
+
+General Attachment Questionaire:
+Please answer these questions about close relationships:
+(The first 6 items tap avoidance with the first 4 items reverse keyed; the last 3 items tap anxiety.)
+
+1. It helps to turn to people in times of need.
+2. I usually discuss my problems and concerns with others.
+3. I talk things over with people.
+4. I find it easy to depend on others.
+5. I don't feel comfortable opening up to others.
+6. I prefer not to show others how I feel deep down.
+7. I often worry that other people do not really care for me.
+8. I'm afraid that other people may abandon me.
+9. I worry that others won't care about me as much as I care about them.
+
+
+Demographic Questions:
+1. age
+2. gender: male, female, non-binary, pref not to self-describe, pref not to say
+3. ethnicity: white, black, asian, native, middle eastern, hispanic, other
+4. year: freshman, sophomore, junior, senior, other
+5. currently dating/married: yes/no
+6. when did your relationship begin?
+7. what image was your lock screen last week (before the experiment)
+
+**Only simulating gender and age (arbitrarily between 15-25)**
