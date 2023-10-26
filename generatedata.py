@@ -152,5 +152,6 @@ addTrial(1,4)
 addTrial(2,2)#adds the 1st trial since person 2 hasn't taken
 #ANY trials yet
 addTrial(5,3)
+addTrial(2,4)
 printtables()
 # %%
