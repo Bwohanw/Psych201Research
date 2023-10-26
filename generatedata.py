@@ -88,6 +88,11 @@ def addTrial(id, trial = 1):
     global surveydata
     global demodata
 
+    #checks if the trial is too high
+    if (trial > 6 or trial <= 0):
+        print("Invalid trial number: " + str(trial))
+        return False
+
     #checks if the id isn't present in demographic data (aka they haven't signed up for the study)
     if (id not in demodata['id'].unique()):
         print("Participant " + str(id) + " is not registered for the study")
@@ -144,6 +149,8 @@ addParticipant(2)
 addParticipant(3)
 addTrial(1, 1)
 addTrial(1,4)
-addTrial(2,2)
+addTrial(2,2)#adds the 1st trial since person 2 hasn't taken
+#ANY trials yet
+addTrial(5,3)
 printtables()
 # %%
